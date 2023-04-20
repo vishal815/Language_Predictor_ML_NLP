@@ -1,15 +1,13 @@
 # Language_Predictor_ML_NLP
-Click below to checkout the website of this ml model
 
- 
+
+
+
+Check out the hosted website [here👉](https://vishal815-language-predictor-ml-nlp-app-dqjsvm.streamlit.app/).
+
 #To run code: streamlit run app.py
 
-Check out the hosted website [here👉](https://www.example.com).
 
-
-## Introduction
-
-This project uses Natural Language Processing (NLP) techniques to analyze text data. In NLP, we often need to convert text data into numerical form so that it can be processed by machine learning algorithms. 
 
 ## TfidfVectorizer
 
@@ -21,7 +19,5 @@ The `analyzer` parameter in `TfidfVectorizer` specifies the type of analysis to 
 
 Using `TfidfVectorizer` from the `feature_extraction.text` module in the `scikit-learn` library, we can generate numerical representations of text data based on term frequency and inverse document frequency. By specifying `ngram_range=(1,2)` and `analyzer='char'`, we can consider both unigrams and bigrams at the character level.
 
-## Examples
 
-Here are some examples of how to use the `TfidfVectorizer` method in Python:
-
+ 
