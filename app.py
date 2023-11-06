@@ -9,7 +9,7 @@ global Lrdetect_Model
 LrdetectFile = open('model.pckl','rb')
 Lrdetect_Model = pickle.load(LrdetectFile)
 LrdetectFile.close()
-st.title("Language Detection Tool INT333")
+st.title("Language Detection Tool")
 input_test = st.text_input("provide your text input here", 'Hello my name is Vishal Lazrus. ')
 
 res = Lrdetect_Model.predict([input_test])
