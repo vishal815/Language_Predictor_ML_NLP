@@ -6,7 +6,8 @@
 Check out the hosted website [here👉](https://vishal815-language-predictor-ml-nlp-app-dqjsvm.streamlit.app/).
 
 ## rander server
-[here👉]([https://vishal815-language-predictor-ml-nlp-app-dqjsvm.streamlit.app/](https://vishal815-language-predictor-ml-nlp-app-dqjsvm.streamlit.app/)https://vishal815-language-predictor-ml-nlp-app-dqjsvm.streamlit.app/).
+Check out the hosted website [here👉](https://huggingface.co/spaces/Visal9252/Languagepredictormlnlp)
+
 
 
 #To run code: streamlit run app.py
