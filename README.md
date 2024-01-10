@@ -2,8 +2,12 @@
 
 
 
-
+ ## huggingface
 Check out the hosted website [here👉](https://vishal815-language-predictor-ml-nlp-app-dqjsvm.streamlit.app/).
+
+## rander server
+[here👉]([https://vishal815-language-predictor-ml-nlp-app-dqjsvm.streamlit.app/](https://vishal815-language-predictor-ml-nlp-app-dqjsvm.streamlit.app/)https://vishal815-language-predictor-ml-nlp-app-dqjsvm.streamlit.app/).
+
 
 #To run code: streamlit run app.py
 
@@ -20,4 +24,4 @@ The `analyzer` parameter in `TfidfVectorizer` specifies the type of analysis to 
 Using `TfidfVectorizer` from the `feature_extraction.text` module in the `scikit-learn` library, we can generate numerical representations of text data based on term frequency and inverse document frequency. By specifying `ngram_range=(1,2)` and `analyzer='char'`, we can consider both unigrams and bigrams at the character level.
 
 
- 
+
