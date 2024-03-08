@@ -9,6 +9,7 @@ Check out the hosted website [here👉](https://vishal815-language-predictor-ml-
 Check out the hosted website [here👉](https://huggingface.co/spaces/Visal9252/Languagepredictormlnlp)
 
 
+![Screenshot 2023-04-21 022042](https://github.com/vishal815/Language_Predictor_ML_NLP/assets/83393190/1a9180f0-92fb-4b18-80fc-9664bd3a406d)
 
 #To run code: streamlit run app.py
 
